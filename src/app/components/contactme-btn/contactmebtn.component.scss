@@ -86,5 +86,11 @@ button:active {
 }
 
 
+@media screen and (max-width: 920px){
+  button{
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
 
 

@@ -46,3 +46,26 @@
   }
 }
 
+@media screen and (max-width: 920px){
+  .home-top{
+    flex-direction: column-reverse;
+
+    &__name{
+      font-size: 40px;
+    }
+    &__job{
+      font-size: 40px;
+    }
+    &__text{
+      margin: 0 auto;
+      text-align: center;
+    }
+    &__img-block {
+      margin: 0 auto;
+    }
+    &__description{
+      width: auto;
+    }
+  }
+
+}
