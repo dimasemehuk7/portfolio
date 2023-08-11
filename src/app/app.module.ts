@@ -17,6 +17,8 @@ import {LoaderComponent} from "./components/loader/loader.component";
 import {HomemidelComponent} from "./components/home-midle/homemidel.component";
 import {SkillscardComponent} from "./components/skills-card/skillscard.component";
 import {FooterComponent} from "./components/footer/footer.component";
+import {AboutPageComponent} from "./pages/about/about-page.component";
+import { AboutopComponent } from './components/aboutop/aboutop.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,9 @@ import {FooterComponent} from "./components/footer/footer.component";
     LoaderComponent,
     HomemidelComponent,
     SkillscardComponent,
-    FooterComponent
+    FooterComponent,
+    AboutPageComponent,
+    AboutopComponent
   ],
   imports: [
     BrowserModule,
