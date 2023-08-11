@@ -25,3 +25,17 @@
     }
   }
 }
+@media screen and (max-width: 920px){
+
+  .about-top {
+
+    &__wrapper {
+      flex-direction: column-reverse;
+
+    }
+    &__text{
+      width: 75%;
+      line-height: 1.6;
+    }
+  }
+}

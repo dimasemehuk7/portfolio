@@ -88,3 +88,10 @@
   top: 50%;
   transform: translate(-50%,-50%);
 }
+
+@media screen and (max-width: 500px) {
+  .card{
+    width: 80px;
+    height: 50px;
+  }
+}
