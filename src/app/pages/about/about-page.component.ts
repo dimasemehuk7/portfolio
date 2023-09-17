@@ -13,7 +13,7 @@ export class AboutPageComponent {
       srcIcon: "/assets/skillsIcons/typescript.svg"
     },
     {
-      title: "Java Script",
+      title: "Java Scrip",
       srcIcon: "/assets/skillsIcons/javascript.svg"
     },
     {
@@ -22,7 +22,7 @@ export class AboutPageComponent {
     },
     {
       title: "MongoDb",
-      srcIcon: "/assets/skillsIcons/typescript.svg"
+      srcIcon: "/assets/skillsIcons/mongodb.svg"
     },
     {
       title: "WebPack",
